@@ -10,7 +10,7 @@ header{
 
 nav{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     gap: 24rem;
 }
 
@@ -25,10 +25,6 @@ main{
 
 .skill{
     font-weight: bold;
-}
-
-.image{
-    width: 25%;
 }
 
 #para{
